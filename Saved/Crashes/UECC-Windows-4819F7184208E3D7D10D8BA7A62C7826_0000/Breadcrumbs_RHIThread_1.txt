@@ -1,0 +1,13 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 Scene
+	02 Scene
+	03 CaptureConvolveSkyEnvMap
+	04 RenderSky StartFace=0 EndFace=6
+	05 Capture Face=0
+	06 Capture Sky Materials
+	07 CaptureConvolveSkyEnvMap
+	08 RenderSky StartFace=0 EndFace=6
+	09 Capture Face=2
+	10 Capture Sky Materials
