@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.3",
+	"FriendlyName": "Phoinix RTS Camera Plugin",
+	"Description": "A heavy customizable RTS camera for the Unreal Engine.",
+	"Category": "Cameras",
+	"CreatedBy": "Phoinix-Dev",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/bZM58uGBPB",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "rts_camera",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
