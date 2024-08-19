@@ -1,7 +1,0 @@
-{
-	"OutputFiles": [
-		"..\\..\\..\\x64\\UnrealGame\\Shipping\\rts_camera\\Module.rts_camera.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Shipping\\rts_camera\\RTSPawn.cpp.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Shipping\\rts_camera\\rts_camera.cpp.obj"
-	]
-}
